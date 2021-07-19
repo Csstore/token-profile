@@ -1,0 +1,21 @@
+{
+  "symbol": "SHOP",
+  "address": "0xacE837f596029039E7eDd4789f9978259e1C3035",
+  "overview":{
+        "en": "Digital currency shopping platform",
+        "zh": "数字货币购物平台"
+  },
+  "email": "service@coinshop.com",
+  "website": "https://www.coinshop.com",
+  "whitepaper": "",
+  "state": "NORMAL",
+  "published_on": "2021-07-03",
+  "initial_price":{
+        "USD":"1 USD",
+  },
+  "links": {
+    "twitter": "https://twitter.com/CoinShopVIP",
+    "telegram": "https://t.me/CoinShop_cn",
+    "reddit": "https://www.reddit.com/r/CoinshopCom/",
+  }
+}
